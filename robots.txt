@@ -1,0 +1,10 @@
+Sitemap: https://janoberst.com/sitemap.txt
+
+User-agent: *
+Allow: /
+
+User-agent: Twitterbot
+Disallow:
+
+User-agent: ia_archiver
+Disallow: /
